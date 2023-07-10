@@ -4,7 +4,7 @@ I am a Data Scientist who enjoys building stuff.
 
 🔭 I’m currently working on:
 * Graph Neural Networks in a Research Internship at [UPC Barcelonatech](https://www.upc.edu/ca).
-* Building apps aroung Large Language Models at [Capchase](https://www.capchase.com/)
+* Building apps around Large Language Models at [Capchase](https://www.capchase.com/)
 * Organizing and managing activities at [datastudents](https://linktr.ee/datastudents).
 
 🙌 I have previously worked on:
