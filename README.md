@@ -4,10 +4,11 @@ I am a Data Scientist who enjoys building stuff.
 
 🔭 I’m currently working on:
 * Graph Neural Networks in a Research Internship at [UPC Barcelonatech](https://www.upc.edu/ca).
-* Software for Vehicle Perception at [BCNeMotorsport](https://bcnemotorsport.upc.edu/home/).
+* Building apps aroung Large Language Models at [Capchase](https://www.capchase.com/)
 * Organizing and managing activities at [datastudents](https://linktr.ee/datastudents).
 
 🙌 I have previously worked on:
+* Software for Vehicle Perception at [BCNeMotorsport](https://bcnemotorsport.upc.edu/home/) (10 months).
 * End-to-end ML product-oriented projects and pricing optimization projects as a Data Science Intern at [MANGO](https://shop.mango.com/es) (9 months).
 * End-to-end research and development Deep Learning projects as a Data Science Intern at [TAVIL](https://tavil.com/es/) (2x summers).
 * Basketball coaching and analytics (1y 8months).
