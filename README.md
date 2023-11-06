@@ -15,8 +15,6 @@ I am a Data Scientist who enjoys building stuff.
 
 🌳 Some of my public projects are:
 * [TILKE: an OpenSource circuit generator for Formula Student](https://github.com/puigde/TILKE)
-
-👾 I also like attending hackathons some of my participations include:
 * [FoodMatch: a restaurant recomender in Barcelona - Best Rookie project at 2021 FME Datathon](https://github.com/puigde/Foodmatch)
 * [HouseMatch: a swiping app for Real Estate Matches - Top 5 projects overall at HackUPC 2022](https://github.com/puigde/Housematch-HackUPC2022-restb.ai_challenge)
 * [Pinturillo Diffusion: a multiplayer scribble game with stable diffusion controlnet - Special Mention at HackUPC 2023](https://github.com/puigde/pinturillo-diffusion)
